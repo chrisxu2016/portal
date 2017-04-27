@@ -1,5 +1,6 @@
 ## Paddle Hompage
-[![Build Status](https://travis-ci.org/chrisxu2016/portal.svg?branch=master)]
+![Build Status](https://travis-ci.org/chrisxu2016/portal.svg?branch=master)
+
 This repository is mainly used to store the homepage files include css, javascript, html and other related codes.
 
 ## Development Enviornment Installation
