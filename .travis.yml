@@ -1,1 +1,5 @@
-language: node.js
+language: node_js
+node_js:
+ - 'v7.9.0'
+
+script: npm run build
